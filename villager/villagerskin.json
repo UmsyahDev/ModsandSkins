@@ -2,14 +2,21 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"",
-      "main_ads_banner": "c1d7f42f4536406a",
-      "main_ads_intertitial":"4172dea9e073cf23",
-      "native_for_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 1,
+      "select_main_ads": "",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"c1d7f42f4536406a",
+      "backup_ads_intertitial":"4172dea9e073cf23",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -466,13 +473,92 @@
       "skin_url":"https://lh3.googleusercontent.com/f3aI_S5bY9efar1fjtabwtwoS-xr5nQhPl087v4vz50_3HGlBwv3Rqvb-jW9RgphXQzhH82mvWpysBeQ8tkJik0BPvGZ_XOhQiqd",
       "view_skin":"https://lh3.googleusercontent.com/oAE436R2LC6EZkKKr_C5t76fHTGJTg3tUFvTLY0NLX6rZXsW_6wSSj5PS-t8uTQwLYeA_mfCt_kmXOv5y6HRvPBRf5YYdKBj9HVA"
     }
-  ],
+	
+	],
   "Addons":
   [
-   
+   {
+      "id":1,
+      "name_add":"1. Villager Mod MCPE",
+      "add_url":"https://archive.org/download/addmapvillager/add1.zip",
+      "addB_url":"https://archive.org/download/addmapvillager/add1B.mcpack",
+      "addR_url":"https://archive.org/download/addmapvillager/add1R.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/ad1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/villager/instal.html"
+    },
+	{
+      "id":2,
+      "name_add":"2. Villager Mod MCPE",
+      "add_url":"https://archive.org/download/addmapvillager/add2.zip",
+      "addB_url":"https://archive.org/download/addmapvillager/add2B.mcpack",
+      "addR_url":"https://archive.org/download/addmapvillager/add2R.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/ad2.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/villager/instal.html"
+    },
+	{
+      "id":3,
+      "name_add":"3. Villager Mod MCPE",
+      "add_url":"https://archive.org/download/addmapvillager/add3.zip",
+      "addB_url":"https://archive.org/download/addmapvillager/add3B.mcpack",
+      "addR_url":"https://archive.org/download/addmapvillager/add3R.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/ad3.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/villager/instal.html"
+    },
+	{
+      "id":4,
+      "name_add":"4. Villager Mod MCPE",
+      "add_url":"https://archive.org/download/addmapvillager/add4.zip",
+      "addB_url":"https://archive.org/download/addmapvillager/add4B.mcpack",
+      "addR_url":"https://archive.org/download/addmapvillager/add4R.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/ad4.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/villager/instal.html"
+    },
+	{
+      "id":5,
+      "name_add":"5. Villager Mod MCPE",
+      "add_url":"https://archive.org/download/addmapvillager/add5.zip",
+      "addB_url":"https://archive.org/download/addmapvillager/add5B.mcpack",
+      "addR_url":"https://archive.org/download/addmapvillager/add5R.mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/ad5.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/villager/instal.html"
+    }
   ],
   "Maps":
   [
-    
+    {
+      "id":1,
+      "name_map":"1. Villager Maps MCPE",
+      "map_url":"https://archive.org/download/mapvillager/map1.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/m1.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/villager/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"2. Villager Maps MCPE",
+      "map_url":"https://archive.org/download/mapvillager/map2.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/m2.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/villager/map.html"
+    },
+	{
+      "id":3,
+      "name_map":"3. Villager Maps MCPE",
+      "map_url":"https://archive.org/download/mapvillager/map3.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/m3.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/villager/map.html"
+    },
+	{
+      "id":4,
+      "name_map":"4. Villager Maps MCPE",
+      "map_url":"https://archive.org/download/mapvillager/map4.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/m4.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/villager/map.html"
+    },
+	{
+      "id":5,
+      "name_map":"5. Villager Maps MCPE",
+      "map_url":"https://archive.org/download/mapvillager/map5.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/villager/m5.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/villager/map.html"
+    }
   ]
 }

@@ -2,14 +2,21 @@
   "Ads":
   [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"",
-      "main_ads_banner": "756e34c925e03c06",
-      "main_ads_intertitial":"abb368150c248ff7",
-      "native_for_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 1,
+      "select_main_ads": "",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"756e34c925e03c06",
+      "backup_ads_intertitial":"abb368150c248ff7",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -394,13 +401,28 @@
       "skin_url":"https://lh3.googleusercontent.com/joOee4JoGmXEdvDF7WaOYQYd-0XlVsAvlx8BcoUDJ5C1eZIswjr5D1VrGFWoQhQ6u1XOL0JHXBEUYlcjhx7W7DtEDi3KVECgu2g",
       "view_skin":"https://lh3.googleusercontent.com/NEm50AkKKgI7SVmVLEOw53KR3LFzwryNHWA5sBhb1ed-h6j_wcaITCoC6usGm1fMLXnMCLY5dZfX_yDLsSdIWzy5_SJtwY4V-A"
     }
+	
   ],
   "Addons":
   [
-   
+   {
+      "id":1,
+      "name_add":"Warden Addon MCPE",
+      "add_url":"https://modandskinmcpe.github.io/easycraftdev/warden/add.zip",
+      "addB_url":"https://modandskinmcpe.github.io/easycraftdev/warden/add(b).mcpack",
+      "addR_url":"https://modandskinmcpe.github.io/easycraftdev/warden/add(r).mcpack",
+      "view_add":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/warden/ad1.png",
+      "des_add":"https://modandskinmcpe.github.io/easycraftdev/warden/instal.html"
+    }
   ],
   "Maps":
   [
-    
+    {
+      "id":1,
+      "name_map":"Warden Maps MCPE",
+      "map_url":"https://archive.org/download/warden/map.zip",
+      "view_map":"https://modcraftmcpe.github.io/modminecraft/fotomodmap/warden/m1.png",
+      "des_map":"https://modandskinmcpe.github.io/easycraftdev/warden/map.html"
+    }
   ]
 }
